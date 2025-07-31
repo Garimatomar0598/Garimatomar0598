@@ -10,7 +10,7 @@
 <h2 align="left">A passionate Frontend Web Developer from India.</h2>
 
 ###
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VreG55d20yd2ZndjI2YjJ3NGpxOWhzamdmbnBrNTVtMjFydGgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp"
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VreG55d20yd2ZndjI2YjJ3NGpxOWhzamdmbnBrNTVtMjFydGgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp">
 
 <p align="left">📚 I'm currently learning - Next.js , Node.js, Redux, Backend Technologies<br>🎯 Goals:  To make Software Developer</p>
 
