@@ -12,7 +12,7 @@
 ###
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VreG55d20yd2ZndjI2YjJ3NGpxOWhzamdmbnBrNTVtMjFydGgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp">
 
-<p align="left">📚 I'm currently learning - Next.js , Node.js, Redux, Backend Technologies<br></p>
+<p align="left">📚 Always eager to learn and grow,  I am continuously enhancing my skill set and currently expanding my knowledge in full-stack development (MERN stack) to become a more versatile developer.I enjoy turning complex problems into simple, beautiful, and intuitive designs<br></p>
 
 ###
 
